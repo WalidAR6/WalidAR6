@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Walid Araissi, Student at 1337 compus Kouribga</div>  
+### <div align="center">I'm Walid Araissi, Student at 1337 compus Khouribga</div>  
 <br/>
 <br/>
 <div align="center">
